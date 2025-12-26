@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AgroPulse: Smart Farming Ecosystem",
+  "description": "A comprehensive agricultural platform featuring e-commerce, logistics, e-learning, live crop data visualization, crypto-integration with AgroCoin, and a Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
